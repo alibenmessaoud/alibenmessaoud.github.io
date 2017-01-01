@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/4127241/orchestration-vs-choreography

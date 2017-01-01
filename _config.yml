@@ -1,0 +1,50 @@
+# Site settings
+title:          Ali Ben Messaoud
+subtitle:       Software engineer
+url:            https://alibenmessaoud.com
+avatar:         https://avatars0.githubusercontent.com/u/760141?s=70
+creation-date:  2017-01-01
+
+footer-links:
+  github:         alibenmessaoud
+  linkedin:       alibenmessaoud
+  rss: # just type anything here for a working RSS icon
+  twitter:        alibenmessaoud
+  stackoverflow:  604156/ali-ben-messaoud
+
+# Google Analytics
+google_analytics: UA-176055216-1
+
+# Author
+author:
+  name:         Ali Ben Messaoud
+  url:          https://alibenmessaoud.com
+  email:        hi@alibenmessaoud.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jemoji
+
+# Permalinks
+permalink:      /:title/
+paginate:       10
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock ]
+
+# Disqus (Set to your disqus id)
+comments: true

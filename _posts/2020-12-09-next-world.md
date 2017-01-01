@@ -1,0 +1,7 @@
+---
+layout: post
+title: The Next World
+tags:
+---
+
+Before and after the crisis, companies are continuing to get stronger and more stronger than before. These companies are fighting each other to dominate the world. Google knows everything about us as we use Android OS and its services. The same thing for Apple and don't tell me that iOS is private and secure. Also, Facebook is collecting data about people around the world. And Amazon is controlling e-commerce over the globe. Of course, China, in the east, is the world's factory. That's all is happening on the earth. In the sky, Elon Musk is trying to conquer the world but in another way. He stated that the StarLink project will provide high-speed, low-cost internet for all people. Just like Google and Facebook in the past. They stated that they are improving the internet services and life of people. But both of them were controlling the freedom of expression in a way or another. Starlink is on the same path as the tech giants in the past. Elon Musk is trying to put his hands on all these tools (Google, Facebook, Amazon, Apple) by controlling the internet. Also, the crisis showed us how companies have taken advantage of the situation to get richer. At some moment during these tough moments, these companies were powerful than any government, even the US government. This leads us to the idea of the new world—the world of multinationals. And the era of powerless governments. I don't how? But it is coming fast and soon!

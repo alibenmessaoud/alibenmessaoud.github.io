@@ -1,0 +1,399 @@
+{
+  "userProfile": {
+    "fullName": "Ali Ben Messaoud",
+    "title": "Software Engineer",
+    "location": {
+      "city": "Paris",
+      "province": "Île-de-France",
+      "country": "France"
+    },
+    "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQE3pv8NZQhJDg/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=CIx0T5d6EP5roGHkVnpSG-cTR11JMqUUMShXuZZPRx8",
+    "description": null,
+    "url": "https://www.linkedin.com/in/alibenmessaoud/?locale=en_US"
+  },
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "company": "Fnac Darty",
+      "employmentType": null,
+      "location": {
+        "city": "Paris",
+        "province": "Île-de-France",
+        "country": "France"
+      },
+      "startDate": "2019-09-01T00:00:00+02:00",
+      "endDate": "2022-12-30T12:27:33+02:00",
+      "endDateIsPresent": true,
+      "description": null,
+      "durationInDays": 414
+    },
+    {
+      "title": "Technical Author",
+      "company": "Baeldung",
+      "employmentType": null,
+      "location": {
+        "city": "Paris",
+        "province": "Île-de-France",
+        "country": "France"
+      },
+      "startDate": "2019-06-01T00:00:00+02:00",
+      "endDate": "2020-10-30T12:27:33+02:00",
+      "endDateIsPresent": true,
+      "description": "Contributing to Baeldung’s project, writing articles, and tutorials about Java and Spring related topics.# Java, Jakarta, Microservice, Spring, Spring Boot, Docker",
+      "durationInDays": 506
+    },
+    {
+      "title": "Software Engineer",
+      "company": "VIDAL Group",
+      "employmentType": null,
+      "location": {
+        "city": "Paris",
+        "province": "Île-de-France",
+        "country": "France"
+      },
+      "startDate": "2018-06-01T00:00:00+01:00",
+      "endDate": "2019-08-30T00:00:00+02:00",
+      "endDateIsPresent": false,
+      "description": "I worked on designing and developing a solution to assist health professionals to prevent risks on their daily tasks at hospitals.# Java 11, testcontainers, Docker, Spring Boot, Vert.x, Reactive Vert.x, RxJava, MongoDB, Hazelcast cluster, RxJS, Keycloak, Maven, NPM, Angular 7, Jenkins, Github, Unit Test, Pair Programming",
+      "durationInDays": 274
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Sopra HR Software",
+      "employmentType": null,
+      "location": {
+        "city": "Paris",
+        "province": "Île-de-France",
+        "country": "France"
+      },
+      "startDate": "2015-03-01T00:00:00+01:00",
+      "endDate": "2018-06-30T00:00:00+02:00",
+      "endDateIsPresent": false,
+      "description": "I worked on designing and developing a new HR Information System from scratch with the platform team.# Java, Microservice, DDD, Modular Monolith, Apache Karaf, Spring, Angular, React, Hibernate, HR Access, Pleaides, CI/CD, Jenkins, Agile, API, JS, OAuth 2.0, LinkedIn API, Jive API, Google API, MS Exchange, EWS Java API, Maven, Scribe API, PostgreSQL, Agile Scrum, co-design, UX/UI … see more",
+      "durationInDays": 1311
+    },
+    {
+      "title": "Research And Development Engineer",
+      "company": "CEA",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saclay",
+        "province": "Île-de-France",
+        "country": "France"
+      },
+      "startDate": "2014-02-01T00:00:00+01:00",
+      "endDate": "2014-07-01T00:00:00+02:00",
+      "endDateIsPresent": false,
+      "description": "I worked on designing & developing a case-based reasoning system for the robot SAM to resolve blocking situations for Integration of Systems and Technology (LIST).# CBR, Java, Jena, Maven, GraphViz, RDF, OWL, similarity (structural, lexical, semantic)",
+      "durationInDays": 151
+    },
+    {
+      "title": "Web Developer",
+      "company": "Tunisie Conseil",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Tunis City",
+        "province": "Tunis",
+        "country": "Tunisia"
+      },
+      "startDate": "2013-06-01T00:00:00+02:00",
+      "endDate": "2013-08-01T00:00:00+02:00",
+      "endDateIsPresent": false,
+      "description": "I worked with a team of 5 persons on the BipTag project. I designed and developed MVC PHP application to manage commercial events and exhibitions for multiple roles [visitor, exhibitor, organizer]. Prize Afexios at Paris.# PHP5, HTML5, CSS3, AJAX, jQuery, Web Services, Git, Agile Scrum, Mantis Bug Tracker",
+      "durationInDays": 62
+    },
+    {
+      "title": "Mobile Application Developer",
+      "company": "Tunisie Conseil",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Tunis City",
+        "province": "Tunis",
+        "country": "Tunisia"
+      },
+      "startDate": "2012-06-01T00:00:00+02:00",
+      "endDate": "2012-08-01T00:00:00+02:00",
+      "endDateIsPresent": false,
+      "description": "I worked on designing and developing an Android App to search and view exhibitions and commercial events. The app provides a powerful tool based on QR code to tag exhibitors and products.# Android, Java, RESTful, QR code, ZXing API, PhoneGap, CSS, jQuery, HTML5, Mantis Bug Tracker",
+      "durationInDays": 62
+    },
+    {
+      "title": "PHP Web Developer",
+      "company": "CONSO-MED",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Tunis City",
+        "province": "Tunis",
+        "country": "Tunisia"
+      },
+      "startDate": "2010-08-01T00:00:00+02:00",
+      "endDate": "2012-05-01T00:00:00+02:00",
+      "endDateIsPresent": false,
+      "description": "I worked on designing and developing a website for Conso-Med Company. Conso-Med designs, manufactures and distributes medical products in MENA. [http://www.conso-med.com]# PHP, HTML, CSS, XML, JavaScript",
+      "durationInDays": 640
+    },
+    {
+      "title": "Java Web Developer",
+      "company": "SGI",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Tunis City",
+        "province": "Tunis",
+        "country": "Tunisia"
+      },
+      "startDate": "2011-02-01T00:00:00+01:00",
+      "endDate": "2011-05-01T00:00:00+02:00",
+      "endDateIsPresent": false,
+      "description": "I worked on designing and developing a Workflow system called SGIflow. This work helps to define, administer and coordinate business processes in a way to automate SGI administrative tasks. Voted the best graduation project.# Java, Swing, JDBC, Oracle, UML, Unified Process … see more",
+      "durationInDays": 90
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "Universite de Lorraine",
+      "degreeName": "Master's degree",
+      "fieldOfStudy": "Computer Software Engineering",
+      "startDate": "2014-01-01T00:00:00+01:00",
+      "endDate": "2015-01-01T00:00:00+01:00",
+      "durationInDays": 366
+    },
+    {
+      "schoolName": "Université de Sousse",
+      "degreeName": "Bachelor of Engineering - BE",
+      "fieldOfStudy": "Computer Science and Telecommunications",
+      "startDate": "2011-01-01T00:00:00+01:00",
+      "endDate": "2014-01-01T00:00:00+01:00",
+      "durationInDays": 1097
+    },
+    {
+      "schoolName": "Université de Kairouan",
+      "degreeName": "Licentiate degree",
+      "fieldOfStudy": "Computer Science",
+      "startDate": "2008-01-01T00:00:00+01:00",
+      "endDate": "2011-01-01T00:00:00+01:00",
+      "durationInDays": 1097
+    }
+  ],
+  "volunteerExperiences": [
+    {
+      "title": "Election Observer",
+      "company": "Association Tunisienne pour l'intégrité et la démocratie des élections",
+      "startDate": "2011-09-01T00:00:00+02:00",
+      "endDate": "2014-09-01T00:00:00+02:00",
+      "endDateIsPresent": false,
+      "description": null,
+      "durationInDays": 1097
+    },
+    {
+      "title": "Android Developer Club, Responsible and Trainer",
+      "company": "ISITCOM | Institut Supérieur d'Informatique et des Techniques de Communication",
+      "startDate": "2012-10-01T00:00:00+02:00",
+      "endDate": "2014-01-01T00:00:00+01:00",
+      "endDateIsPresent": false,
+      "description": "Organizing trainings and workshops about apps development.Won first prize \"nuit de l'info\" 2013 edition, Proxym-IT.http://www.nuitdelinfo.com/nuitinfo/defis:meilleur:start",
+      "durationInDays": 458
+    }
+  ],
+  "skills": [
+    {
+      "skillName": "Software Engineering",
+      "endorsementCount": 17
+    },
+    {
+      "skillName": "Java",
+      "endorsementCount": 29
+    },
+    {
+      "skillName": "Amazon Web Services (AWS)",
+      "endorsementCount": 0
+    },
+    {
+      "skillName": "Project Management",
+      "endorsementCount": 10
+    },
+    {
+      "skillName": "Test Driven Development",
+      "endorsementCount": 10
+    },
+    {
+      "skillName": "Agile Methodologies",
+      "endorsementCount": 9
+    },
+    {
+      "skillName": "Continuous Integration",
+      "endorsementCount": 9
+    },
+    {
+      "skillName": "Software Development",
+      "endorsementCount": 13
+    },
+    {
+      "skillName": "Web Development",
+      "endorsementCount": 16
+    },
+    {
+      "skillName": "Distributed Systems",
+      "endorsementCount": 6
+    },
+    {
+      "skillName": "Scrum",
+      "endorsementCount": 10
+    },
+    {
+      "skillName": "Big Data",
+      "endorsementCount": 8
+    },
+    {
+      "skillName": "Data Modeling",
+      "endorsementCount": 6
+    },
+    {
+      "skillName": "Machine Learning",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "JEE",
+      "endorsementCount": 18
+    },
+    {
+      "skillName": "RxJava",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "Vert.x",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "Quarkus",
+      "endorsementCount": 0
+    },
+    {
+      "skillName": "RESTful WebServices",
+      "endorsementCount": 10
+    },
+    {
+      "skillName": "JSON Web Token (JWT)",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "JPA",
+      "endorsementCount": 15
+    },
+    {
+      "skillName": "Hibernate",
+      "endorsementCount": 10
+    },
+    {
+      "skillName": "Maven",
+      "endorsementCount": 12
+    },
+    {
+      "skillName": "Git",
+      "endorsementCount": 7
+    },
+    {
+      "skillName": "JavaScript",
+      "endorsementCount": 17
+    },
+    {
+      "skillName": "Oracle",
+      "endorsementCount": 10
+    },
+    {
+      "skillName": "Angular",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "React",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "MongoDB",
+      "endorsementCount": 2
+    },
+    {
+      "skillName": "PostgreSQL",
+      "endorsementCount": 9
+    },
+    {
+      "skillName": "MySQL",
+      "endorsementCount": 18
+    },
+    {
+      "skillName": "SOAP",
+      "endorsementCount": 7
+    },
+    {
+      "skillName": "XML",
+      "endorsementCount": 11
+    },
+    {
+      "skillName": "Spring",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "UML",
+      "endorsementCount": 18
+    },
+    {
+      "skillName": "Docker",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "JUnit",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "Jakarta EE",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "Software Craftsmanship",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "Kubernetes",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "Microservices",
+      "endorsementCount": 8
+    },
+    {
+      "skillName": "Micro Frontends",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "Eclipse MicroProfile",
+      "endorsementCount": 0
+    },
+    {
+      "skillName": "Web components",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "Reactive programming",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "API",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "SOLID",
+      "endorsementCount": 1
+    },
+    {
+      "skillName": "OSGi",
+      "endorsementCount": 7
+    },
+    {
+      "skillName": "TypeScript",
+      "endorsementCount": 2
+    },
+    {
+      "skillName": "Apache Spark",
+      "endorsementCount": 0
+    }
+  ]
+}
