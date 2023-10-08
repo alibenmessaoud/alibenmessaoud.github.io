@@ -129,7 +129,7 @@
       "startDate": "2010-08-01T00:00:00+02:00",
       "endDate": "2012-05-01T00:00:00+02:00",
       "endDateIsPresent": false,
-      "description": "I worked on designing and developing a website for Conso-Med Company. Conso-Med designs, manufactures and distributes medical products in MENA. [http://www.conso-med.com]# PHP, HTML, CSS, XML, JavaScript",
+      "description": "I worked on designing and developing a website for Conso-Med Company. Conso-Med designs, manufactures and distributes medical products in MENA. [https://www.conso-med.com]# PHP, HTML, CSS, XML, JavaScript",
       "durationInDays": 640
     },
     {
@@ -190,7 +190,7 @@
       "startDate": "2012-10-01T00:00:00+02:00",
       "endDate": "2014-01-01T00:00:00+01:00",
       "endDateIsPresent": false,
-      "description": "Organizing trainings and workshops about apps development.Won first prize \"nuit de l'info\" 2013 edition, Proxym-IT.http://www.nuitdelinfo.com/nuitinfo/defis:meilleur:start",
+      "description": "Organizing trainings and workshops about apps development.Won first prize \"nuit de l'info\" 2013 edition, Proxym-IT.https://www.nuitdelinfo.com/nuitinfo/defis:meilleur:start",
       "durationInDays": 458
     }
   ],

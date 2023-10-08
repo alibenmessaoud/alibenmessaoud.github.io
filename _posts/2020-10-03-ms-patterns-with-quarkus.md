@@ -10,7 +10,7 @@ Today, we will see some of them, and we will use Quarkus.
 
 ## Project Setup
 
-Let's create a new Playground; in order to create a new project for Quarkus, open [http://code.quarkus.io](http://code.quarkus.io/) and create a new project with these extensions: 
+Let's create a new Playground; in order to create a new project for Quarkus, open [https://code.quarkus.io](https://code.quarkus.io/) and create a new project with these extensions: 
 
 - `quarkus-rest-client`
 - `quarkus-smallrye-fault-tolerance`
@@ -49,7 +49,7 @@ __  ____  __  _____   ___  __ ____  ______
 --\___\_\____/_/ |_/_/|_/_/|_|\____/___/
 2020-08-26 10:18:13,806 INFO  [io.quarkus] (Quarkus Main Thread)
 ms-customer 1.0-SNAPSHOT on JVM (powered by Quarkus 1.7.0.Final)
-started in 1.608s. Listening on: http://0.0.0.0:8080
+started in 1.608s. Listening on: https://0.0.0.0:8080
 2020-08-26 10:18:13,820 INFO  [io.quarkus] (Quarkus Main Thread)
 Profile dev activated. Live Coding activated.
 2020-08-26 10:18:13,820 INFO  [io.quarkus] (Quarkus Main Thread)
@@ -104,7 +104,7 @@ Optional<String> mayBeGreeting;
 >
 > > TL;DR
 > >
-> > Java 8's `Optional` was mainly intended for return values from methods, and not for properties of Java classes, as described in [Optional in Java SE 8](http://blog.joda.org/2014/11/optional-in-java-se-8.html)
+> > Java 8's `Optional` was mainly intended for return values from methods, and not for properties of Java classes, as described in [Optional in Java SE 8](https://blog.joda.org/2014/11/optional-in-java-se-8.html)
 >
 > Second, the use of Optional is the same to `defaultValue` attribute:
 > ```java

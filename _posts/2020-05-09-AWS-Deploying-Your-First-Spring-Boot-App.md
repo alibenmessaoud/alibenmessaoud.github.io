@@ -44,7 +44,7 @@ Let's check if the `Docker` image we just built actually works: `docker run -p 8
 
 Note that without specifying the port mapping, `Docker` won't expose a port on which we can access the application.
 
-Once started, we can open `http://localhost:8081/hello` in a browser tab and should see `Hello Docker World` text.
+Once started, we can open `localhost:8081/hello` in a browser tab and should see `Hello Docker World` text.
 
 To deploy a `Docker` image to `AWS`, `AWS` needs to pull the image from the `Docker registry`. So, let's publish our image to `hub.docker.com` which is `Docker registry`. 
 

@@ -36,7 +36,7 @@ Or we can do:
 As usual, the application will be running on port 8080.
 
 ```sh
-$ curl http://localhost:8080/greet/ali
+$ curl localhost:8080/greet/ali
 Hi!! ali
 ```
 
@@ -100,7 +100,7 @@ And finally, let's run the container with this image:
 
 We used `-p` flag to map the port of the host `8090` and the port inside the container `8080`.
 
-Now, we can access the endpoint on `http://localhost:8090/greet/ali`
+Now, we can access the endpoint on `localhost:8090/greet/ali`
 
 Our Spring Boot application is successfully running within a Docker container!
 
@@ -200,7 +200,7 @@ And finally, let's run the container with this image:
 
 `$ docker run -p 8090:8080 demo `
 
-Now, we can access the endpoint on `http://localhost:8090/greet/ali`
+Now, we can access the endpoint on `localhost:8090/greet/ali`
 
 ## Conclusion
 

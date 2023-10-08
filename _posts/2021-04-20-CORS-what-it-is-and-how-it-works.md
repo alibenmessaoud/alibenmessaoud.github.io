@@ -19,7 +19,7 @@ It is a browser security feature and called [Cross-Origin Resource Sharing (CORS
 
 This feature defines which resources provided by a web application are supposed to be accessible from which origin.
 
-> An origin is composed of there parts: protocol, domain and port. or example, `http://example.com` and `https://example.com`. Both have the same domain but different protocols (`http` vs `https`) and ports (`80` vs `443`).
+> An origin is composed of there parts: protocol, domain and port. or example, `https://example.com` and `https://example.com`. Both have the same domain but different protocols (`http` vs `https`) and ports (`80` vs `443`).
 
 It prevents malicious actors from accessing sensitive data by spoofing a website under a different domain name.
 
@@ -160,13 +160,13 @@ npm install cors
 ```js
 app.use( 
     cors({
-    origin: "http://localhost:4001",
+    origin: "localhost:4001",
     methods: "GET"
   })
 );
 ```
 
-This code will restrict calls to those the address http://localhost:4001 and GET method.
+This code will restrict calls to those the address localhost:4001 and GET method.
 
 I hope this read gave you a good idea about `CORS`, how it came to be, and why it's necessary. 
 

@@ -10,7 +10,7 @@ Imagine you are working for a new e-commerce website and you worked on customer 
 
 The days pass, and the business started working with professional customers. A new programmer joined the team, and he is the responsible of implementing the logic behind the professional customers, so it’s time to revisit your code. Your implementations work great, but the website needs to manipulate professional customers like companies. Therefore adding another customer type just depreciated your code’s clarity. After the change, the website has `Customer` and `ProfessionalCustomer` entities. The names are not clear and we can not understand if `Customer` means the normal customer or anything else?
 
->  The act of leaving a mess in the code should be as socially unacceptable as *littering*. — [Robert C. “Uncle Bob” Martin](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
+>  The act of leaving a mess in the code should be as socially unacceptable as *littering*. — [Robert C. “Uncle Bob” Martin](https://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
 
 So the idea, with the boy scout rule in mind, is to rename for example the entity `Customer` to `PersonCustomer` or `CustomerAsPerson` or anything else giving some business signification to that entity. Hence, with that easy change, the system regains clarity.
 

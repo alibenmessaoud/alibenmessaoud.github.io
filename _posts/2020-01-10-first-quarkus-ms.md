@@ -49,7 +49,7 @@ Next, let's execute the project, using the command:
 $ mvn quarkus:dev
 ```
 
-In the browser, access the address `http://localhost:8080`:
+In the browser, access the address `localhost:8080`:
 
 ```html
 Your new Cloud-Native application is ready!

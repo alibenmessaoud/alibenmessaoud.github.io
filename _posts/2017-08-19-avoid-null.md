@@ -6,7 +6,7 @@ tags: best-practice java null
 
 How to prevent the famous `NullPointerExceptions` in Java? This is one of the most important questions for every Java developer to ask independently of their level of expertise. 
 
-> I call it my billion-dollar mistake. It was the invention of the null reference in 1965 - [Tony Hoare](http://en.wikipedia.org/wiki/Tony_Hoare) 
+> I call it my billion-dollar mistake. It was the invention of the null reference in 1965 - [Tony Hoare](https://en.wikipedia.org/wiki/Tony_Hoare) 
 
 It’s a mistake, and that’s why we should know how to deal with it, get in the habit of forbidding code from using `null`, and then prevent `NPE` at all.
 

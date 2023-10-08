@@ -4,9 +4,9 @@ title: Say Hello to var in Java 10
 tags: java
 ---
 
-Java 10 had been published last March, 20th 2018 and it came with new features like local-variable type inference ([JEP 286](http://openjdk.java.net/jeps/286)). This version carries the `var` keyword to declare local variables without typing with the type information: `var users = new ArrayList<User>();`
+Java 10 had been published last March, 20th 2018 and it came with new features like local-variable type inference ([JEP 286](https://openjdk.java.net/jeps/286)). This version carries the `var` keyword to declare local variables without typing with the type information: `var users = new ArrayList<User>();`
 
-As a Java developer, we’re used to typing types twice for a long time, once for the variable declaration and once again for the constructor of the object: `URL url = new URL("http://example.io");` We also often declare types for variables that are used just once and on the next line. This is not particularly terrible, but it is somewhat redundant. From Java 10 on, `var` keyword will enable us to declare the local variable without type information supported by the type inference of the Java compiler. We can write a simpler code `String str = "Hello!"` like `var str = "Hello!"`
+As a Java developer, we’re used to typing types twice for a long time, once for the variable declaration and once again for the constructor of the object: `URL url = new URL("https://example.io");` We also often declare types for variables that are used just once and on the next line. This is not particularly terrible, but it is somewhat redundant. From Java 10 on, `var` keyword will enable us to declare the local variable without type information supported by the type inference of the Java compiler. We can write a simpler code `String str = "Hello!"` like `var str = "Hello!"`
 
 When JVM processes the `var` keyword, it looks at the right-hand side of the declaration and uses the token for the variable typing. And not just for internal manipulation, but it writes that resulted type into the bytecode. This saves a few characters when typing, eases lines reading, and removes duplication.
 

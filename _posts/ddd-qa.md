@@ -22,7 +22,7 @@ It is a development approach that deeply values the domain model and connects it
 
 ### What is the blue book that everyone is talking about?
 
-[This one](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)? It is the defining text on Domain-Driven Design, by Eric Evans, the founder of DDD. It comes highly recommended.
+[This one](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)? It is the defining text on Domain-Driven Design, by Eric Evans, the founder of DDD. It comes highly recommended.
 
 ### What is a ubiquitous language?
 

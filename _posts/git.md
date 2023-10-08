@@ -268,7 +268,7 @@ alias grep <alias-name>
 
 ## Ignoring Files
 
-Many files do not belong in version control. You should utilize your [global gitignore](http://egorsmirnov.me/2015/05/04/global-gitignore-file.html) for this. Examples of things that do not belong in version control are `node_modules` directories, `.vscode` or other IDE files, and Python virtual environments.
+Many files do not belong in version control. You should utilize your [global gitignore](https://egorsmirnov.me/2015/05/04/global-gitignore-file.html) for this. Examples of things that do not belong in version control are `node_modules` directories, `.vscode` or other IDE files, and Python virtual environments.
 
 For any sensitive information, you can use environment files and add these to your local `.gitignore` at the root of your project.
 

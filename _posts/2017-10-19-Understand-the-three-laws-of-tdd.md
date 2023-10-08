@@ -4,7 +4,7 @@ title: Understand the Three Laws of TDD
 tags: best-practice rgr tdd test-driven-development
 ---
 
-Uncle Bob described TDD with three rules in his article [The Three Laws of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd). These laws lock a developer into a cycle that is short but is very crucial to maintain. They are:
+Uncle Bob described TDD with three rules in his article [The Three Laws of TDD](https://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd). These laws lock a developer into a cycle that is short but is very crucial to maintain. They are:
 
 1. You are not allowed to write any production code unless it is to make a failing unit test pass.
 2. You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.

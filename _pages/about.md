@@ -22,7 +22,7 @@ Some non-programming things to know about me: I live in the Paris area, am a cof
 
 Write me on hi @ my website address!
 
-[![enter image description here](https://i.stack.imgur.com/JgNHC.png)](http://fr.linkedin.com/in/alibenmessaoud)
+[![enter image description here](https://i.stack.imgur.com/JgNHC.png)](https://fr.linkedin.com/in/alibenmessaoud)
 
 <a href="https://stackoverflow.com/users/604156/ali-ben-messaoud"><img src="https://stackoverflow.com/users/flair/604156.png" width="208" height="58" alt="profile for Ali Ben Messaoud at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Ben Messaoud at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 

@@ -176,7 +176,7 @@ ActiveMQ architecture
 
 More details [here](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services)
 
-For an extensive list of queueing systems check [here](http://queues.io/)
+For an extensive list of queueing systems check [here](https://queues.io/)
 
 ## **When to use What**
 
@@ -241,10 +241,10 @@ POST /InStock HTTP/1.1
 Host: www.example.org
 Content-Type: application/soap+xml; charset=utf-8
 Content-Length: 299
-SOAPAction: "http://www.w3.org/2003/05/soap-envelope"
+SOAPAction: "https://www.w3.org/2003/05/soap-envelope"
 
 <?xml version="1.0"?>
-<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:m="http://www.example.org">
+<soap:Envelope xmlns:soap="https://www.w3.org/2003/05/soap-envelope" xmlns:m="https://www.example.org">
   <soap:Header>
   </soap:Header>
   <soap:Body>
@@ -298,7 +298,7 @@ Nevertheless, most of those topics can be agreed during a single day.
 **Example:**
 
 ```
-Request:GET http://example.org/stocks/GOOGResponse:{
+Request:GET https://example.org/stocks/GOOGResponse:{
      "price": "23.50"
 }
 ```

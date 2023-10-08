@@ -107,7 +107,7 @@ service/nginx-app exposed
 We will then be able to ping the host and see the result from the HTTP service.
 
 ```sh
-$ curl http://192.168.1.12:8000
+$ curl https://192.168.1.12:8000
 <!DOCTYPE html>
 <html>
 <head>
@@ -126,9 +126,9 @@ $ curl http://192.168.1.12:8000
 working. Further configuration is required.</p>
 
 <p>For online documentation and support please refer to
-<a href="http://nginx.org/">nginx.org</a>.<br/>
+<a href="https://nginx.org/">nginx.org</a>.<br/>
 Commercial support is available at
-<a href="http://nginx.com/">nginx.com</a>.</p>
+<a href="https://nginx.com/">nginx.com</a>.</p>
 
 <p><em>Thank you for using nginx.</em></p>
 </body>
@@ -150,7 +150,7 @@ deployment.apps/nginx-one-shot created
 We should be able to access it using:
 
 ```sh
-$ curl http://192.168.1.12:8001
+$ curl https://192.168.1.12:8001
 <!DOCTYPE html>
 ...
 ```

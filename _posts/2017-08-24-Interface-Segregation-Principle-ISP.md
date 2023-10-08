@@ -6,7 +6,7 @@ tags: best-practice solid
 
 In this article, we will see the Interface Segregation Principle (ISP), which is the “I” in the [SOLID](https://en.wikipedia.org/wiki/SOLID) principles.
 
-> “Clients should not be forced to depend upon interfaces that they do not use.” — Robert Martin, paper “[The Interface Segregation Principle](https://web.archive.org/web/20150905081110/http://www.objectmentor.com/resources/articles/isp.pdf)”. 
+> “Clients should not be forced to depend upon interfaces that they do not use.” — Robert Martin, paper “[The Interface Segregation Principle](https://web.archive.org/web/20150905081110/https://www.objectmentor.com/resources/articles/isp.pdf)”. 
 
 ## How to get in trouble?
 

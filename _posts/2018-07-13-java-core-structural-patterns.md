@@ -77,7 +77,7 @@ It means shields the user from the complex details of the system and provides th
 
 When you call a shop to place a phone order, an operator is your façade to all the shop's services and departments. 
 
-[`javax.faces.context.ExternalContext`](http://docs.oracle.com/javaee/7/api/javax/faces/context/ExternalContext.html), which internally uses [`ServletContext`](http://docs.oracle.com/javaee/7/api/javax/servlet/ServletContext.html), [`HttpSession`](http://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpSession.html), [`HttpServletRequest`](http://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpServletRequest.html), [`HttpServletResponse`](http://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpServletResponse.html), etc.
+[`javax.faces.context.ExternalContext`](https://docs.oracle.com/javaee/7/api/javax/faces/context/ExternalContext.html), which internally uses [`ServletContext`](https://docs.oracle.com/javaee/7/api/javax/servlet/ServletContext.html), [`HttpSession`](https://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpSession.html), [`HttpServletRequest`](https://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpServletRequest.html), [`HttpServletResponse`](https://docs.oracle.com/javaee/7/api/javax/servlet/http/HttpServletResponse.html), etc.
 
 ## Flyweight
 
@@ -85,7 +85,7 @@ When you call a shop to place a phone order, an operator is your façade to all 
 
 In other words, if we have immutable objects that can share state, as per this pattern, we can cache them to improve system performance.
 
-As example, we list [`java.lang.Integer#valueOf(int)`](http://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html#valueOf-int-) (also on [`Boolean`](http://docs.oracle.com/javase/8/docs/api/java/lang/Boolean.html#valueOf-boolean-), [`Byte`](http://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html#valueOf-byte-), [`Character`](http://docs.oracle.com/javase/8/docs/api/java/lang/Character.html#valueOf-char-), [`Short`](http://docs.oracle.com/javase/8/docs/api/java/lang/Short.html#valueOf-short-), [`Long`](http://docs.oracle.com/javase/8/docs/api/java/lang/Long.html#valueOf-long-) and [`BigDecimal`](https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html#valueOf-long-int-)).
+As example, we list [`java.lang.Integer#valueOf(int)`](https://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html#valueOf-int-) (also on [`Boolean`](https://docs.oracle.com/javase/8/docs/api/java/lang/Boolean.html#valueOf-boolean-), [`Byte`](https://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html#valueOf-byte-), [`Character`](https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html#valueOf-char-), [`Short`](https://docs.oracle.com/javase/8/docs/api/java/lang/Short.html#valueOf-short-), [`Long`](https://docs.oracle.com/javase/8/docs/api/java/lang/Long.html#valueOf-long-) and [`BigDecimal`](https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html#valueOf-long-int-)).
 
 ## Proxy
 

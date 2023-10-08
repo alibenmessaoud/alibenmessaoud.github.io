@@ -96,7 +96,7 @@ hello.Application
 
 To test our app, we can see `/greeting` endpoint by using `curl` command or in browser: 
 
-`curl http://localhost:90/greeting` 
+`curl localhost:90/greeting` 
 
 You should see:
 
@@ -118,9 +118,9 @@ In other words, the build is slow and we have more dependencies to download. The
 
   ```xml
   RUN echo \
-    "<settings xmlns='http://maven.apache.org/SETTINGS/1.0.0\' \
-    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' \
-    xsi:schemaLocation='http://maven.apache.org/SETTINGS/1.0.0 
+    "<settings xmlns='https://maven.apache.org/SETTINGS/1.0.0\' \
+    xmlns:xsi='https://www.w3.org/2001/XMLSchema-instance' \
+    xsi:schemaLocation='https://maven.apache.org/SETTINGS/1.0.0 
     https://maven.apache.org/xsd/settings-1.0.0.xsd'> \
       <localRepository>/Users/myname/.m2/repository</localRepository> \
         <interactiveMode>true</interactiveMode> \
@@ -195,7 +195,7 @@ Then, run the container:
 
 To test the app, run `curl` on the endpoint: 
 
-`curl http://localhost:91/greeting` 
+`curl localhost:91/greeting` 
 
 And the output is: 
 

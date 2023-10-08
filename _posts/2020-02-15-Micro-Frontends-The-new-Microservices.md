@@ -8,7 +8,7 @@ In the last years, microservices have got much attention. Several companies adop
 
 ### Some History
 
-Micro Frontends first came up in [*ThoughtWorks Technology Radar*](https://www.thoughtworks.com/radar/techniques/micro-frontends) at the end of 2016 and, lately, in November 2019. [micro-frontends.org](http://micro-frontends.org/) defines a Micro Frontends as: "A composition of features that are owned by independent teams. Each team has a distinguished area of business it cares about and specializes in. A team is cross-functional and develops its features end-to-end, from the database to the user interface."
+Micro Frontends first came up in [*ThoughtWorks Technology Radar*](https://www.thoughtworks.com/radar/techniques/micro-frontends) at the end of 2016 and, lately, in November 2019. [micro-frontends.org](https://micro-frontends.org/) defines a Micro Frontends as: "A composition of features that are owned by independent teams. Each team has a distinguished area of business it cares about and specializes in. A team is cross-functional and develops its features end-to-end, from the database to the user interface."
 
 In other words, Micro Frontends extends the principles of microservices to the frontend. Thus, a website or a web application can be considered a composition of features owned by independent teams from the database to the user interface.
 
@@ -18,7 +18,7 @@ Today, frontend applications are in the same position as their backend counterpa
 
 ### Solutions With Micro Frontends
 
-*Jonas Boner* describes the [five primary characteristics of microservices](http://jonasboner.com/bla-bla-microservices-bla-bla/): isolation, autonomy, single responsibility, an exclusive state, and mobility. By analogy, switching to a micro frontends approach can guarantee the latter characteristics and solve some of those problems. It becomes simple to deploy in small parts with Micro Frontends and speed time-to-market the frontend same team's frontend and backend components. As well as their ability to improve the applications' design, applying this approach means a huge change of teams' mindset for the development.
+*Jonas Boner* describes the [five primary characteristics of microservices](https://jonasboner.com/bla-bla-microservices-bla-bla/): isolation, autonomy, single responsibility, an exclusive state, and mobility. By analogy, switching to a micro frontends approach can guarantee the latter characteristics and solve some of those problems. It becomes simple to deploy in small parts with Micro Frontends and speed time-to-market the frontend same team's frontend and backend components. As well as their ability to improve the applications' design, applying this approach means a huge change of teams' mindset for the development.
 
 ### An Example Of Micro Frontends
 
